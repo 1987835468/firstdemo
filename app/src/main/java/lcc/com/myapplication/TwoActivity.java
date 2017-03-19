@@ -2,7 +2,7 @@ package lcc.com.myapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-//李聪聪第一次修改
+
 public class MainActivity extends AppCompatActivity {
 
     @Override

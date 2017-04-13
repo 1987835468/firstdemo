@@ -1,8 +1,8 @@
-package lcc.com.myapplication;
+﻿package lcc.com.myapplication;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-//李聪聪第一次修改
+//李聪聪第一次修改hah
 public class MainActivity extends AppCompatActivity {
 
     @Override
